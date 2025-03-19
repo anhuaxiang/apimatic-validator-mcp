@@ -1,0 +1,9 @@
+{
+    "type": "node",
+    "request": "launch",
+    "name": "Debug MCP Server",
+    "program": "${workspaceFolder}/index.js", 
+    "cwd": "${workspaceFolder}",
+    "outFiles": ["${workspaceFolder}/dist/**/*.js"],
+    "sourceMaps": true
+  }
