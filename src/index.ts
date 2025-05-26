@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 
 import archiver from "archiver";
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
